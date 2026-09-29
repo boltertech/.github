@@ -1,67 +1,137 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:F5A623&height=220&section=header&text=Bolter%20Technologies&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=We%20build%20software%20that%20works%2C%20and%20we%20stand%20behind%20it.&descSize=18&descAlignY=58&animation=fadeIn" alt="Bolter Technologies" width="100%"/>
+</p>
+
+<!-- Typing line -->
 <p align="center">
   <a href="https://boltertech.com">
-    <img src="https://boltertech.com/yellow-logo.png" alt="Bolter Technologies" width="120">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=F5A623&center=true&vCenter=true&width=640&lines=Software+that+runs+your+business.;AI+that+ships+to+production.;Automation+that+runs+itself.;Data+you+can+actually+act+on.;Security+that+finds+the+gaps+first." alt="Typing SVG"/>
   </a>
 </p>
 
-<h1 align="center">Bolter Technologies</h1>
-
+<!-- Badges -->
 <p align="center">
-  <strong>We build software that works, and we stand behind it.</strong><br>
-  Software development · AI solutions · Business automation · Data analytics · Cyber security
-</p>
-
-<p align="center">
-  <a href="https://boltertech.com">Website</a> ·
-  <a href="https://boltertech.com/en/work">Our work</a> ·
-  <a href="https://boltertech.com/en/contact">Contact</a> ·
-  <a href="https://www.linkedin.com/company/boltertech">LinkedIn</a> ·
-  <a href="https://clutch.co/profile/bolter-technologies">Clutch</a>
+  <a href="https://boltertech.com"><img src="https://img.shields.io/badge/boltertech.com-F5A623?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/></a>
+  <a href="https://www.linkedin.com/company/boltertech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://clutch.co/profile/bolter-technologies"><img src="https://img.shields.io/badge/Clutch-17313B?style=for-the-badge&logoColor=white" alt="Clutch"/></a>
+  <a href="https://www.goodfirms.co/company/bolter-technologies"><img src="https://img.shields.io/badge/GoodFirms-1B1B1B?style=for-the-badge&logoColor=white" alt="GoodFirms"/></a>
+  <a href="mailto:contact@boltertech.com"><img src="https://img.shields.io/badge/Email-contact%40boltertech.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-Bolter Technologies is a software and technology company based in Islamabad, Pakistan. We find the process that is quietly costing your team hours a week, automate it end to end, and stay on the hook for it.
+### We find the process that's quietly costing your team hours a week, automate it end to end, and stay on the hook for it.
 
-## What we do
+Islamabad-based engineering team building software, AI and data systems for businesses and public-sector teams who need them to **actually work in production**, not just in a demo.
 
-| | |
-|---|---|
-| **Software development** | Web applications, SaaS platforms, customer portals, internal tools, APIs and integrations |
-| **AI solutions** | AI assistants, LLM integrations, document processing, RAG knowledge systems and AI agents |
-| **Business automation** | Billing, reporting and approval workflows, CRM/ERP integrations, scheduled and event-driven jobs |
-| **Data analytics** | Data pipelines, warehouses, BI dashboards, forecasting and machine learning |
-| **Cyber security** | Penetration testing, SIEM and UEBA, threat intelligence and vulnerability platforms |
+<!-- Numbers -->
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h2>250+</h2><sub>mall tenants billed<br>automatically</sub></td>
+    <td align="center" width="25%"><h2>400K+</h2><sub>company files answerable<br>by a private AI</sub></td>
+    <td align="center" width="25%"><h2>200K+</h2><sub>CVE records searchable<br>in under 50 ms</sub></td>
+    <td align="center" width="25%"><h2>80+</h2><sub>threat intel feeds<br>scored daily</sub></td>
+  </tr>
+</table>
 
-## Selected work
+## ⚡ What we build
 
-- **[Current by Logmate](https://boltertech.com/en/work/current-by-logmate)**: automated electricity billing and payment recovery for commercial malls, serving 250+ tenants.
-- **[Secure company chatbot](https://boltertech.com/en/work/secure-company-chatbot)**: an encrypted internal assistant that answers staff questions from 400,000+ company files, checking access first.
-- **[Cortex Strike](https://boltertech.com/en/work/cortex-strike)**: an AI agent that plans and runs multi-tool penetration tests with a full audit trail.
-- **[PKNVD](https://boltertech.com/en/work/pknvd)**: a vulnerability intelligence platform unifying 200,000+ CVE records with sub-50ms search.
-- **[Threat intelligence platform](https://boltertech.com/en/work/cyber-threat-intelligence)**: ingests 80+ feeds and maps campaigns onto MITRE ATT&CK.
-- **[PSX Portfolio Tracker](https://boltertech.com/en/work/psx-portfolio-tracker)**: live prices and dividends from the Pakistan Stock Exchange in one dashboard.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧱 Software development</h3>
+      Web apps, SaaS platforms, customer portals, internal tools, APIs and integrations, from requirements to deployment.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI solutions</h3>
+      AI assistants, LLM features, document processing, RAG knowledge systems and agents, including fully self-hosted models when data can't leave the building.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>⚙️ Business automation</h3>
+      Billing, reporting and approval workflows that run on their own, with humans in the loop where it matters.
+    </td>
+    <td valign="top">
+      <h3>📊 Data analytics</h3>
+      Pipelines, warehouses, BI dashboards and predictive models that turn scattered data into decisions.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛡️ Cyber security</h3>
+      Penetration testing, SIEM &amp; UEBA, threat intelligence and vulnerability platforms, built for teams whose job is defence.
+    </td>
+  </tr>
+</table>
 
-[See all case studies →](https://boltertech.com/en/work)
+## 🚀 Selected work
 
-## How we build
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://boltertech.com/en/work/current-by-logmate"><img src="https://boltertech.com/work/current-by-logmate/current-admin-dashboard.png" alt="Current by Logmate"/></a>
+      <h4><a href="https://boltertech.com/en/work/current-by-logmate">Current by Logmate</a></h4>
+      <sub>Automated electricity billing and payment recovery for commercial malls. <b>Live platform.</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://boltertech.com/en/work/bolter-siem"><img src="https://boltertech.com/work/bolter-siem/SIEM.png" alt="Bolter SIEM"/></a>
+      <h4><a href="https://boltertech.com/en/work/bolter-siem">Bolter SIEM</a></h4>
+      <sub>SOC monitoring and UEBA analytics correlating 1M+ events per second.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://boltertech.com/en/work/pknvd"><img src="https://boltertech.com/work/pknvd/PKNVD.png" alt="PKNVD"/></a>
+      <h4><a href="https://boltertech.com/en/work/pknvd">PKNVD</a></h4>
+      <sub>National vulnerability database: 200K+ CVEs with live exploit intelligence.</sub>
+    </td>
+    <td valign="top">
+      <a href="https://boltertech.com/en/work/psx-portfolio-tracker"><img src="https://boltertech.com/work/psx-portfolio-tracker/psx-dashboard.png" alt="PSX Portfolio Tracker"/></a>
+      <h4><a href="https://boltertech.com/en/work/psx-portfolio-tracker">PSX Portfolio Tracker</a></h4>
+      <sub>Live Pakistan Stock Exchange prices and dividends in one dashboard. <b>Live app.</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Languages:** TypeScript · Python · JavaScript · SQL
-**Frontend:** React · Next.js · Tailwind CSS
-**Backend:** FastAPI · Node.js · PostgreSQL · Redis
-**AI:** llama.cpp · LangChain · pgvector · Whisper · self-hosted and API models
-**Infrastructure:** Docker · Vercel · AWS · Azure · Google Cloud
+<p align="center"><a href="https://boltertech.com/en/work"><b>See all 15 case studies →</b></a></p>
 
-## How we work
+## 🧰 Our stack
 
-1. **Discovery & Planning**: define the problem, the right approach, and a clear plan.
-2. **Build & Deliver**: phased delivery with agreed scope and pricing for each phase.
-3. **Ongoing Support**: maintenance, monitoring and improvement after launch.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,tailwind,fastapi,nodejs,postgres,redis,mongodb,docker,vercel,azure,gcp,aws&perline=8" alt="Tech stack"/>
+</p>
 
-You own what we build, and you always have one named point of contact.
+<p align="center"><sub>Plus llama.cpp · LangChain · pgvector · Whisper · Elasticsearch · self-hosted and API LLMs</sub></p>
 
-## Get in touch
+## 🔁 How we work
 
-📧 [contact@boltertech.com](mailto:contact@boltertech.com) · 🌐 [boltertech.com](https://boltertech.com) · 📍 Islamabad, Pakistan
+```mermaid
+flowchart LR
+    A["🔍 Discovery & Planning<br/><sub>1–2 weeks</sub>"] --> B["🛠️ Build & Deliver<br/><sub>phased, priced per phase</sub>"]
+    B --> C["🤝 Ongoing Support<br/><sub>monthly retainer</sub>"]
+    C -. new ideas .-> A
+```
 
-Have a project in mind? [Get an estimate →](https://boltertech.com/en/estimate)
+<details>
+<summary><b>What you can hold us to</b></summary>
+<br>
+
+- **One named point of contact:** you always know who to call.
+- **Clear pricing by phase:** you know the cost before each phase starts. No surprise invoices.
+- **You own what we build:** code, designs and docs are yours.
+- **Support beyond delivery:** a proper handover, and we stay on if you need us.
+
+</details>
+
+---
+
+<p align="center">
+  <b>Have a process that's eating your team's week?</b><br><br>
+  <a href="https://boltertech.com/en/estimate"><img src="https://img.shields.io/badge/Get%20an%20estimate%20→-F5A623?style=for-the-badge" alt="Get an estimate"/></a>
+</p>
+
+<p align="center"><sub>📍 Islamabad, Pakistan · 📧 contact@boltertech.com</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:1a1a1a&height=120&section=footer" width="100%"/>
