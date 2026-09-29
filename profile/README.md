@@ -13,10 +13,14 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://boltertech.com"><img src="https://img.shields.io/badge/boltertech.com-F5A623?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/></a>
+  <a href="mailto:contact@boltertech.com"><img src="https://img.shields.io/badge/Email-contact%40boltertech.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/company/boltertech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://share.google/IGR1TDdmRNCHCy29w"><img src="https://img.shields.io/badge/Google-Business%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile"/></a>
   <a href="https://clutch.co/profile/bolter-technologies"><img src="https://img.shields.io/badge/Clutch-17313B?style=for-the-badge&logoColor=white" alt="Clutch"/></a>
   <a href="https://www.goodfirms.co/company/bolter-technologies"><img src="https://img.shields.io/badge/GoodFirms-1B1B1B?style=for-the-badge&logoColor=white" alt="GoodFirms"/></a>
-  <a href="mailto:contact@boltertech.com"><img src="https://img.shields.io/badge/Email-contact%40boltertech.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.crunchbase.com/organization/bolter-technologies"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase"/></a>
 </p>
 
 ---
